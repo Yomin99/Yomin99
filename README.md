@@ -2,7 +2,8 @@
 - 👀 I’m interested in mathmatics and algorithms.
 - 🌱 I’m currently learning C,C++.
 
-- Japanese version
+
+Japanese version
 - Yomin99です。
 - 初心者プログラマで勉強中です。
 - 昔数学をしていた影響で、アルゴリズム(とデータ構造)に興味があります。
